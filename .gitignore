@@ -14,5 +14,10 @@ build/
 *.ipr
 out/
 
+### Visual Studio 2019 ###
+.vs
+Debug/
+c_algorithm.*
+
 
 
