@@ -17,6 +17,7 @@ out/
 ### Visual Studio 2019 ###
 .vs
 Debug/
+x64/
 c_algorithm.*
 
 
